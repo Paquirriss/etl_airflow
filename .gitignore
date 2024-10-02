@@ -3,3 +3,9 @@ logs/
 
 #Pycahcé
 *.pyc
+
+#Pycahcé
+*.pyc
+
+#af.db
+airflow.db
