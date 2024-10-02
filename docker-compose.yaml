@@ -6,7 +6,7 @@ services:
     image: sleek-airflow:latest
 
     volumes:
-      - .:/opt/airflow  # Montar toda la carpeta del proyecto
+      - .:/opt/airflow
 
     ports:
       - "8080:8080"
